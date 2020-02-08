@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+* {margin:0; padding:0;}
+.clr {clear:both;}
+a {text-decoration:none;}
+a img {border:none;}
+body { background:url(images/header_bg2.jpg) center 0 no-repeat #000; 
+       color:#676765; font:normal 12px Georgia, "Times New Roman", Times, serif;}
+.karkas {width:819px; margin:0 auto; background:url(images/bottom_bg-3.jpg) 0 bottom no-repeat #fff8e6; position:relative;}
+.leaves {position:absolute; left:-60px; top:0;}
+.header {background:url(images/header_bg2.jpg) center 0 no-repeat; width:100%; overflow:hidden;}
+.col1, .col2 {float:left;}
+.col1 {width:409px; padding:25px 31px 19px 60px;}
+.col2 {width:289px; padding-right:10px 30px 19px 0;}
+h1 {font:normal 28px Georgia, "Times New Roman", Times, serif; margin:110px 100px 6px 84px;}
+h1 a, .menu a, h2 {color:#7d5026;} 
+h2 {font:normal 18px Georgia, "Times New Roman", Times, serif; margin-bottom:13px;}
+h3 {font-weight:bold; color:#2d7414; font-size:12px;}
+.menu a:hover { border-bottom:solid 3px #bd8c47;}
+.menu {float:right; margin-bottom:31px;}
+.menu li {float:left; list-style:none; margin-right:21px; font-weight:bold;}
+.sidebar {background:url(images/bottom_bg-2.jpg) 0 0 no-repeat; padding:205px 35px 21px 30px; position:relative; zoom:1;}
+.sidebar .about {float:left; width:300px;}
+.sidebar h2 {margin-bottom:12px;}
+.sidebar .about p {line-height:16px;}
+.sidebar .some { padding-right:240px; margin-left:330px;}
+.sidebar .some li {line-height:23px; list-style:none; background:url(images/footer_bullet.gif) 0 center no-repeat; padding-left:15px; zoom:1;}
+.sidebar img {position:absolute;}
+.sidebar a {color:#676765}
+.sidebar a:hover {text-decoration:underline;}
+.join {top:205px; right:35px;}
+.copy {top:282px; right:57px;}
+#lightBox {width:396px; margin-top:21px;}
+#lightBox li {float:left; list-style:none; padding:6px 7px 30px 7px; background:url(images/photo_bg.gif) 0 0 no-repeat;
+               margin:0 18px 15px 0;}
+#lightBox li.clr_wid {margin-bottom:0;}	
+.col2 p {background:url(images/dosh.gif) 0 bottom repeat-x; padding:8px 0;} 
+.footer p {margin:0 25px; padding:7px 10px 12px 10px; font-size:11px; text-align:center; 
+           background:url(images/dosh.gif) 0 top repeat-x; zoom:1;}
+.dates { background:url(images/date_bg.gif) 0 0 no-repeat; position:relative; padding-bottom:33px;}	
+.dates p { padding:0 0 0 57px; line-height:17px; background:none;} 	
+.dates h3 {padding:2px 0 8px 57px;} 
+.date, .month {position:absolute; width:37px; height:23px; text-align:center; line-height:23px;}
+.date {left:5px; top:3px;} 
+.month {left:5px; top:26px;} 
+.read {font-style:italic; float:right; margin:7px 0 17px 0;}
+.icon1 {float:left; margin:0 16px 16px 0;}
+.icon2 {float:right; margin:0 0 16px 16px;} 
+.col1 p {margin-bottom:31px;}
+	   
+			   

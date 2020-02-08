@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+* {margin:0; padding:0;}
+a img {border:none;}
+.karkas {width:776px; margin:0 auto;
+         font:normal 12px Arial, Helvetica, sans-serif;
+		 color:#2a3845;  line-height:18px;}	 
+.clr {clear:both;}		 
+.menu {background-color:#7a2e40; color:#f6dde3; 
+        padding:14px 49px 14px 51px;}
+.menu a {color:#f6dde3; text-decoration:none;}	
+.menu a:hover {text-decoration:underline;}
+.menu li {float:right; list-style:none; }
+h1 a {color:#fa7393; font:bold 18px Georgia, "Times New Roman", Times, serif; text-decoration:none;}
+h1 {margin-top:9px;}
+.temp {color:#7a2e40;}
+.main {width:484px; float:left; background:url(images/bg.gif) 0 top repeat-x #fff; padding:27px 0 6px 33px;}
+.logo {float:left; margin:0 11px 39px 14px;}
+h4 {color:#818282; margin-bottom:39px;}
+h2, h3 {font:bold 14px Arial, Helvetica, sans-serif; color:#7a2e40;}
+h2 a, h3 a {text-decoration:none;}
+h3 {font-size:13px;}
+.cont1 a, .cont2 a, .sidebar a, .footer a {color:#a43b55;}	
+.cont1 a:hover, .cont2 a:hover, .sidebar a:hover, .footer a:hover {text-decoration:none;}
+.cont1 {border:solid 1px #f1eaec; background-color:#f9f9f9; width:392px; padding:20px 33px 25px 15px; margin-bottom:27px;}
+.cont1 h2 {border-bottom:solid 1px #999999; padding-bottom:6px; margin-bottom:13px;}
+.cont1 ul {line-height:18px; margin-top:25px; margin-left:20px; list-style-image:url(images/bullet3.gif);}
+.cont2 {width:440px;}
+.cont2 h2 {border-bottom:solid 1px #999999; padding-bottom:12px; margin-bottom:15px;}
+.cont2 img {border:solid 1px #f3eeee; float:left; margin:0 20px 10px 0;}
+.cont2 p {margin-bottom:25px;}
+.sidebar {width:210px; float:right;  background:url(images/bg.gif) 0 top repeat-x #fff; padding:25px 38px 31px 11px;}
+.site {margin-bottom:6px;}
+.girl {margin-left:36px;}
+.link {padding:13px 5px 16px 40px; line-height:24px; list-style-image:url(images/paw.gif); border:solid 1px #f1eaec;
+            background-color:#f9f9f9; margin:15px 11px 0 0;}
+.footer {border-top:solid 1px #f1eaec; padding:14px 50px 14px 33px;}

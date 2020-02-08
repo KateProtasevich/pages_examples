@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+* {margin:0; padding:0;}
+.loc  {width:664px; margin:0 auto; font:normal 12px Verdana, Arial, Helvetica, sans-serif; color:#676767;}
+.loc a {color:#89d847;}
+.header {background:url(images/localize.gif) right 0 no-repeat #fff; 
+         height:123px;}
+h1 {color:#89d847; font:italic 28px Verdana, Arial, Helvetica, sans-serif;  margin:31px 200px 0 25px;}
+.header a {text-decoration:none;}		 
+.header p, .main h2 {color:#3a4573;} 
+.header p {margin:10px 0 0 75px;}
+.menu {list-style:none;}
+.menu a {text-decoration:none; color:#fff; background-color:#999; display:block; width:166px; float:left; text-align:center; padding:17px 0px 17px 0;}
+.menu a:hover {background-color:#333;}	 
+.contant {width:514px; float:left;}
+.main h2 {font:italic 12px Arial, Helvetica, sans-serif; background-color:#ddd; padding:3px 0 3px 0;}
+
+.contant {margin:28px 0px 36px 0px;}
+.contant h2 {width:448px; margin:0 0 8px 10px; padding-left:36px;}
+.contant p {margin:0 22px 18px 12px;}
+.sidebar {width:150px; float:right;}
+.news {margin:19px 0 8px 0;}
+.news p {margin:8px 6px 22px 8px;}
+.news, .links {border:solid 1px #999; width:142px;}
+.links ul {list-style:none; text-align:center; margin-bottom:4px; margin-top:4px;}
+.sidebar h2 {width:112px; margin:6px 6px 0 6px; padding-left:18px;}
+.clr {clear:both;}
+.footer {width:658px; margin-left:4px; border-top:solid 1px #999;}
+.email {width:344px; float:left; padding:12px 5px 12px 11px}
+.copy {width:282px; float:right; text-align:right; padding:12px 11px 12px 5px;}
+.email, .copy {line-height:18px;}
